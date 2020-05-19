@@ -2,13 +2,9 @@
 <a href="https://github.com/cyber-Force77"><img alt="Version" src="https://img.shields.io/badge/Version-1.0-brightgreen"/></a>
 <a href="https://github.com/cyber-Force77"><img alt="Language" src="https://img.shields.io/badge/Language-Python-brightgreen"/></a>
 </br>
-<a href="https://instagram.com/aslan.sploit"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Saydog.official-orange"/></a>
+<a href="https://instagram.com/aslan.sploit"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Aslan.Sploit-orange"/></a>
 </p>
-# Support Distro
-# ***✔️Linux Mint***
-# ***✔️Ubuntu***
-# ***✔️Termux***
-
+ 
 # FITUR
 ```
 ✔️ INSTAGRAM BRUTEFORCE
